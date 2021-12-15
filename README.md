@@ -10,21 +10,21 @@ We’ve only gone and done it! Ladies and gentleman, after many strenuous hours 
 This documentation will assist with the installation of sirens and provide a starting point for developers, configuring the plugin for use with their ELS scripts.
 
 ## 🔧Installation
-- 1. :Download the resource from GitHub [here](https://github.com/Walsheyy/WMServerSirens).
-- 2. : Copy ‘wm-serversirens’ to your resources folder.
-- 3. : Open your server.cfg and write“ensure wm-serversirens” anywhere in the config.
-- 4. : Follow our documentation on adding custom sirens below!
+1. :Download the resource from GitHub [here](https://github.com/Walsheyy/WMServerSirens).
+2. : Copy ‘wm-serversirens’ to your resources folder.
+3. : Open your server.cfg and write“ensure wm-serversirens” anywhere in the config.
+4. : Follow our documentation on adding custom sirens below!
   
 ## 🔊Adding custom sirens
 We’ve provided the ability for you to add custom sirens without any knowledge of code or development. After following our simple guide, you’ll be cooking on gas in no time!
 You’ll be required to use OpenIV or another AWC editing program to add or edit custom sirens into the game. Our plugin comes ready with 3 siren pack AWC files ready to edit.
 
-- 1. : Navigate to “dlc_wmsirens” in the directory.
-- 2. : Navigate to the “oac” folder.
-- 3. : Change the .wav files with your custom .wav files. Do not change the file names, this is very important, WMServerSirens will not function properly if you do this.
-- 4. : After editing the siren pack, navigate to the .oac file and drag it into OpenIV. This will compile the .AWC file together and allow you to use it in your server.
-- 5. : Drag and drop the AWC file you previously created into “dlc_wmserversirens”, replacing the base siren pack. Do not change the name of the siren pack.
-- 6. : Start up your server and go for a celebratory drive! Let off some fireworks.
+1. : Navigate to “dlc_wmsirens” in the directory.
+2. : Navigate to the “oac” folder.
+3. : Change the .wav files with your custom .wav files. Do not change the file names, this is very important, WMServerSirens will not function properly if you do this.
+4. : After editing the siren pack, navigate to the .oac file and drag it into OpenIV. This will compile the .AWC file together and allow you to use it in your server.
+5. : Drag and drop the AWC file you previously created into “dlc_wmserversirens”, replacing the base siren pack. Do not change the name of the siren pack.
+6. : Start up your server and go for a celebratory drive! Let off some fireworks.
 
 In there, you’d change VEHICLES_HORNS_SIREN_1, with “SIREN_ALPHA”. However, you would need to edit the ELS script to use the “DLC_WMSERVERSIRENS_SOUNDSET”  custom DLC when playing the sound from the entity.
 
