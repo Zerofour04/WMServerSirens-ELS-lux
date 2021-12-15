@@ -1,21 +1,24 @@
 
-# WMServerSirens - Server Sided Sirens
+# 🚨WMServerSirens - Server Sided Sirens
+
+## Hey, I integrated Server Sirens in this resources, just download it:
+### [Lux_vehcontrol-Version](https://github.com/Zerofour04/lux_vehcontrol-WMServerSirens)
+### [ELS-Version](https://github.com/Zerofour04/ELS-FiveM-WMServerSirens)
 
 We’ve only gone and done it! Ladies and gentleman, after many strenuous hours of hard work, we’ve finally developed server side sirens for FiveM! We’ve seen a constant demand for this resource and that’s given us a huge motivational boost to develop it. You can now add server side sirens to your server which can be used in conjunction with a majority of siren scripts (eg. luxart). You can also change the air/bullhorn!
 
 This documentation will assist with the installation of sirens and provide a starting point for developers, configuring the plugin for use with their ELS scripts.
 
-LONDON STUDIOS DISCORD - Join [HERE](https://discord.gg/F2zmUTD).
-WALSHEY MODIFICATIONS DISCORD - Join [HERE](https://discord.gg/uVuW5Am).
-
-## Installation
-
-[Video on how to install](https://youtu.be/ZgZT_TuMdbU "How to install Server Sided Sirens for FiveM")
-
+## 🔧Installation
 Download the resource from GitHub [here](https://github.com/Walsheyy/WMServerSirens).
 **Step 1**: Copy ‘wm-serversirens’ to your resources folder.
 **Step 2**: Open your server.cfg and write“ensure wm-serversirens” anywhere in the config.
 **Step 3**: Follow our documentation on adding custom sirens below!
+
+## 🆘Support
+LONDON STUDIOS DISCORD - Join [HERE](https://discord.gg/F2zmUTD).
+WALSHEY MODIFICATIONS DISCORD - Join [HERE](https://discord.gg/uVuW5Am).
+[Video on how to install](https://youtu.be/ZgZT_TuMdbU "How to install Server Sided Sirens for FiveM")
   
 ## Adding custom sirens
 We’ve provided the ability for you to add custom sirens without any knowledge of code or development. After following our simple guide, you’ll be cooking on gas in no time!
